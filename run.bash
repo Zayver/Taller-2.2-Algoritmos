@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#python main.py
+python main.py
 
 gnuplot -persist <<EOF
     plot "out.txt" using 1:1 with linespoints title "Iterativo", \
