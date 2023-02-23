@@ -1,7 +1,7 @@
 # Taller No. 2.2
 ## Autores
 - Santiago Zúñiga
-- Mauren Ribera
+- Mauren Rivera
 
 # Ejecución
 
