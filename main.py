@@ -1,5 +1,5 @@
 ##=================================================##
-## @author Santiago Zuñiga, Mauren Ribera          ##
+## @author Santiago Zuñiga, Mauren Rivera          ##
 ##=================================================##
 
 import time
